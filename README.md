@@ -35,7 +35,6 @@ In separate terminals, start clients:
 
 ./client
 
-
 Each client will be prompted for a username and can then send messages to all connected users.
 
 Requirements
