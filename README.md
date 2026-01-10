@@ -1,10 +1,10 @@
 TerminalTalk TCP Server
 
-=============================
+==============================
 
 TerminalTalk TCP Server is a simple C++ based TCP chat server designed for real-time communication through the terminal. It allows multiple clients to connect simultaneously and exchange messages over a TCP connection.
 
-=========================
+==========================
 
 Features
 
